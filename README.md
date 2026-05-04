@@ -1,3 +1,5 @@
+<img width="1919" height="800" alt="image" src="https://github.com/user-attachments/assets/e53190a9-b894-4941-8c20-a0ad42a6c483" />
+
 # 🛒 Kiranawale Bhaiya
 
 > *Your smart bhaiya who knows you’ll run out of atta before you do.*
